@@ -1,6 +1,6 @@
 <script>
     import TitleBar from './TitleBar.svelte';
-    import WelcomeNavigator from './WelcomeNavigator.svelte';
+    
 </script>
 
 <div class="columns is-vcentered">
@@ -8,6 +8,6 @@
         <TitleBar title={'Placemark'} subTitle={'Sign up or Log in'} />
     </div>
     <div class="column">
-        <WelcomeNavigator />
+        <slot />
     </div>
 </div>

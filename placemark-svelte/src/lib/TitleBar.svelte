@@ -12,7 +12,7 @@
         <div class="subtitle is-5">{subTitle}</div>
     </div>
      <div class="column">
-        <i class="fas fa-donate fa-3x" style="color:rgb(95, 96, 173)" />
+        <i class="fas fa-map-marker fa-3x" style="color:rgb(95, 96, 173)" />
         <div class="is-size-7">Placemark-Svelte 0.1</div>
     </div>
 </div>
